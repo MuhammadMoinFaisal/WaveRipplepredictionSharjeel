@@ -1,0 +1,1 @@
+[{"kvFst" : 10.12,  "kvTrgger":15.234, "ripple_id": 18.12, "ripple_angle":10.12}]

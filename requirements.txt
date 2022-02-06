@@ -1,0 +1,11 @@
+flask==1.1.2
+tensorflow
+keras
+numpy>=1.19.5
+scipy>=1.4.1
+scikit-learn==1.0.2
+matplotlib>=3.3.4
+pandas>=1.2.4
+seaborn>=0.11.2
+flasgger==0.9.5
+streamlit
